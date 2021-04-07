@@ -1,0 +1,4 @@
+ tar xf jdk-8u181-linux-x64.tar.gz -C /usr/local/
+      ln -sv /usr/local/jdk1.8.0_181 /usr/local/java
+    tar xf hadoop-2.7.6.tar.gz -C /usr/local/
+    ln -sv /usr/local/hadoop-2.7.6 /usr/local/hadoop
